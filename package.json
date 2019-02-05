@@ -10,7 +10,7 @@
     "type": "git",
     "url": "https://github.com/AzureAD/azure-activedirectory-library-for-js.git"
   },
-  "version": "1.0.16",
+  "version": "1.0.18",
   "description": "Windows Azure Active Directory Client Library for js",
   "keywords": [
     "implicit",
@@ -38,7 +38,7 @@
     "grunt-contrib-uglify": "~0.6.0",
     "grunt-contrib-watch": "~0.2.0",
     "grunt-karma": "^0.9.x",
-    "atob": "~1.1.2",
+    "atob": "~2.1.0",
     "karma-chrome-launcher": "^0.1.5",
     "karma": "^0.12.24",
     "karma-jasmine": "^0.1.5",
